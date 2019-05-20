@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Place-Autocomplete</string>
+    <string name="places_api_key">YOUR_KEY</string>
+</resources>
